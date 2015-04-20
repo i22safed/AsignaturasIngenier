@@ -1,0 +1,1 @@
+echo "Lola me dijo Hola" | grep --color=auto ola
